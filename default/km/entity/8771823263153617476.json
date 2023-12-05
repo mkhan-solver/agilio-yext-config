@@ -1,0 +1,49 @@
+{
+    "$id": "8771823263153617476",
+    "$schema": "https://schema.yext.com/config/km/entity/v1",
+    "primaryLocale": "en",
+    "content": {
+      "bodyV2": {
+        "markdown": "Contact Us"
+      },
+      "description": "If you require complete air conditioning service or repair and refrigeration services, we encourage you to contact us today to learn more about us. ${{location_name}} conditioning team can help you achieve your goals.",
+      "name": "Contact Us",
+      "photoGallery": [
+        {
+          "description": "Contact Us",
+          "details": "Contact Us",
+          "image": {
+            "height": 346,
+            "thumbnails": [
+              {
+                "height": 346,
+                "url": "https://a.mktgcdn.com/p/i73etUUmjHJWmL3xLd9ncxkXkTDjKAd3EccpX8sXg6Q/768x346.jpg",
+                "width": 768
+              },
+              {
+                "height": 279,
+                "url": "https://a.mktgcdn.com/p/i73etUUmjHJWmL3xLd9ncxkXkTDjKAd3EccpX8sXg6Q/619x279.jpg",
+                "width": 619
+              },
+              {
+                "height": 270,
+                "url": "https://a.mktgcdn.com/p/i73etUUmjHJWmL3xLd9ncxkXkTDjKAd3EccpX8sXg6Q/600x270.jpg",
+                "width": 600
+              },
+              {
+                "height": 88,
+                "url": "https://a.mktgcdn.com/p/i73etUUmjHJWmL3xLd9ncxkXkTDjKAd3EccpX8sXg6Q/196x88.jpg",
+                "width": 196
+              }
+            ],
+            "url": "https://a.mktgcdn.com/p/i73etUUmjHJWmL3xLd9ncxkXkTDjKAd3EccpX8sXg6Q/768x346.jpg",
+            "width": 768
+          }
+        }
+      ],
+      "slug": "contact-us"
+    },
+    "entityType": "ce_pages",
+    "folder": "yext/root",
+    "labels": []
+  }

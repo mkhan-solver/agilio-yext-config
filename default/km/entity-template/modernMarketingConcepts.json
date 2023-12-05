@@ -1,0 +1,15 @@
+{
+  "$id": "modernMarketingConcepts",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "categoryIds": [
+      "63"
+    ],
+    "name": "Modern Marketing Conepts"
+  },
+  "entityTypes": [
+    "location"
+  ],
+  "localeCode": "en",
+  "name": "Modern Marketing Concepts"
+}

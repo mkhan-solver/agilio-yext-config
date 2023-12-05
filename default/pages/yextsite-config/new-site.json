@@ -1,0 +1,33 @@
+{
+  "$id": "${{site_id}}",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "${{site_name}}",
+  "repoConfig": "${{repo_id}}",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "master",
+      "envVars": [
+        {
+          "key": "YEXT_PUBLIC_LOCATION_ENTITY_ID",
+          "value": "front-page"
+        },
+        {
+          "key": "YEXT_PUBLIC_LOCATION_LOCALE_CODE",
+          "value": "en"
+        }
+      ],
+      "isProductionBranch": true,
+      "Active": true
+    }
+  ]
+}

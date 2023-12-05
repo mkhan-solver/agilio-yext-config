@@ -1,0 +1,63 @@
+{
+  "$id": "ce_services",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_services",
+  "displayName": "Services",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "datePosted"
+        },
+        {
+          "id": "slug"
+        },
+        {
+          "id": "bodyV2"
+        },
+        {
+          "id": "description"
+        },
+        {
+          "id": "keywords"
+        },
+        {
+          "id": "photoGallery"
+        },
+        {
+          "id": "c_metaDescription"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

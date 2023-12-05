@@ -1,0 +1,15 @@
+{
+  "$id": "5679390660682403894",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "# How Long Does it Take to Install an HVAC System\n\nWhen it comes to keeping our homes and businesses comfortable, your HVAC system plays a crucial role. For those of us living in ${{location_address_city}}, ${{location_address_region}}, the scorching summers and chilly winters make a reliable HVAC system a necessity. However, have you ever wondered how long it takes to install one? In this article, we will explore the HVAC installation process, the factors influencing the time it takes, and the associated costs.\n\n# What is an HVAC System?\n\nHVAC stands for Heating, Ventilation, and Air Conditioning. It’s a system that helps regulate temperature and air quality in our homes, offices, and other buildings. A good HVAC system ensures that we stay warm in the winter and cool in the summer, while also maintaining indoor air quality."
+    },
+    "description": "When it comes to keeping our homes and businesses comfortable, your HVAC system plays a crucial role. For those of us living in ${{location_address_city}}, ${{location_address_region}}, the scorching summers and chilly winters make a reliable HVAC system a necessity. However, have you ever wondered how long it takes to install one?",
+    "name": "How Long Does it Take to Install an HVAC System",
+    "slug": "how-long-does-it-take-to-install-an-hvac-system"
+  },
+  "entityType": "ce_blog",
+  "labels": []
+}

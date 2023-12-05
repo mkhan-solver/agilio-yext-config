@@ -1,0 +1,22 @@
+{
+    "$id": "c_theme",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "Theme",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "type": {
+      "optionType": {
+        "option": [
+          {
+            "displayName": "Default",
+            "textValue": "DEFAULT"
+          },
+          {
+            "displayName": "Template",
+            "textValue": "TEMPLATE"
+          }
+        ]
+      }
+    },
+    "typeId": "option"
+  }

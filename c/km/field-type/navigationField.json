@@ -1,0 +1,54 @@
+{
+  "$id": "c_navigationField",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Navigation Field",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "label",
+          "displayName": "Label",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE",
+              "maxLength": 100000
+            }
+          }
+        },
+        {
+          "name": "uRL",
+          "displayName": "URL",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE",
+              "maxLength": 100000
+            }
+          }
+        },
+        {
+          "name": "subItem",
+          "displayName": "Sub Item",
+          "isRequired": false,
+          "typeId": "list",
+          "type": {
+            "listType": {
+              "typeId": "entityReference",
+              "maxLength": 5000,
+              "type": {
+                "entityReferenceType": {
+                  "supportedEntityTypeIds": [
+                    "ce_services"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

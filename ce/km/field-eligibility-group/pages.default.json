@@ -1,0 +1,15 @@
+{
+  "$id": "ce_pages.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Pages-default",
+  "entityType": "ce_pages",
+  "fields": [
+    "bodyV2",
+    "c_blogList",
+    "description",
+    "keywords",
+    "photoGallery",
+    "slug"
+  ],
+  "required": []
+}

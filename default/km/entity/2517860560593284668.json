@@ -1,0 +1,52 @@
+{
+  "$id": "2517860560593284668",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "# About Us\n\nWe understand that ${{location_name}} are critical to the success of many businesses, which is why we offer a range of products and air conditioning installation, commercial air conditioning maintenance, heat pump installation, and best air conditioning repair services tailored to meet the specific needs of our customers. So, whether you’re looking for a new system installation, routine maintenance, or emergency repair, our team of experts is here to help.\n\nWe take pride in the quality of our products and services. Our team of professionals is highly skilled and experienced, and we use only the best equipment and materials to ensure that our work meets the highest standards. We also offer a comprehensive warranty on all of our products and services, giving our customers peace of mind and confidence in our work.\n\nOne of the key factors that set us apart from our competitors is our commitment to energy efficiency. We understand the importance of reducing energy consumption and lowering carbon emissions, which is why we offer a range of energy-efficient products and USA air conditioning services to help our customers save money and reduce their environmental impact.\n\nOur products and services include the latest energy-efficient air conditioning and refrigeration systems, which use cutting-edge technology to reduce energy consumption and save our customers money on their energy bills. We also offer routine commercial air conditioning maintenance to help our customers keep their systems running smoothly and efficiently, as well as emergency repair services for those unexpected breakdowns.\n\nAt ${{location_name}}, we are also committed to sustainability and environmental responsibility. We believe that we must protect the planet for future generations, which is why we are constantly seeking new ways to reduce our environmental impact and promote sustainability in everything we do.\n\nWe use environmentally-friendly materials and equipment wherever possible, and we are always looking for ways to reduce waste and conserve resources. We also offer advice and guidance to our customers on how they can reduce their environmental impact, such as by using energy-efficient products and reducing their carbon footprint.\n\nIn addition to our commitment to energy efficiency and sustainability, we are also dedicated to providing exceptional ${{location_name}} home services. We understand that our customers are the heart of our business, and we strive to provide them with a level of service that exceeds their expectations.\n\nOur team of professionals is always on hand to answer questions, provide advice, and offer support whenever our customers need it. We also offer flexible scheduling options to ensure that our commercial air conditioning service needs are convenient and accessible to all of our customers, no matter how busy their schedules may be.\n\nAt ${{location_name}}, we are proud of our reputation as a trusted and reliable provider of air conditioning and refrigeration products and services. We believe that our commitment to energy efficiency, sustainability, and customer service sets us apart from our competitors, and we are constantly striving to improve our products and services to better serve our customers.\n\nIf you require air conditioning or refrigeration services, we encourage you to contact us today to learn more about how we can help you achieve your goals. We look forward to working with you to find the best possible solutions for your needs and to help you save money, reduce your environmental impact, and achieve your business objectives.\n\n**Call Now To Get A Free Quote:**\n\n"
+    },
+    "description": "At ${{location_name}}, we are committed to providing our customers with the best possible solutions for ${{location_name}} conditioning and refrigeration needs. Our mission is to deliver high-quality, reliable, and energy-efficient products and services to help our clients achieve their goals. Call now to know more about us.",
+    "name": "About Us",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1920,
+          "thumbnails": [
+            {
+              "height": 1920,
+              "url": "https://a.mktgcdn.com/p/yLdC_v-1lw4UX6aleiCYeKKo5N19sfllXBQVNzF-dUE/2560x1920.jpg",
+              "width": 2560
+            },
+            {
+              "height": 1425,
+              "url": "https://a.mktgcdn.com/p/yLdC_v-1lw4UX6aleiCYeKKo5N19sfllXBQVNzF-dUE/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p/yLdC_v-1lw4UX6aleiCYeKKo5N19sfllXBQVNzF-dUE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/yLdC_v-1lw4UX6aleiCYeKKo5N19sfllXBQVNzF-dUE/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p/yLdC_v-1lw4UX6aleiCYeKKo5N19sfllXBQVNzF-dUE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/yLdC_v-1lw4UX6aleiCYeKKo5N19sfllXBQVNzF-dUE/2560x1920.jpg",
+          "width": 2560
+        }
+      }
+    ],
+    "slug": "about-us"
+  },
+  "entityType": "ce_pages",
+  "folder": "yext/root",
+  "labels": []
+}

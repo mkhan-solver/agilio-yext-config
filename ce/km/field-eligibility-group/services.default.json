@@ -1,0 +1,16 @@
+{
+  "$id": "ce_services.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Services-default",
+  "entityType": "ce_services",
+  "fields": [
+    "bodyV2",
+    "c_metaDescription",
+    "datePosted",
+    "description",
+    "keywords",
+    "photoGallery",
+    "slug"
+  ],
+  "required": []
+}

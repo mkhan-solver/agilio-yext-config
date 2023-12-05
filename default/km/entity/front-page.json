@@ -1,0 +1,451 @@
+{
+  "$id": "front-page",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "${{location_address_city}}",
+      "countryCode": "US",
+      "line1": "${{location_address_line1}}",
+      "postalCode": "${{location_address_postal_code}}",
+      "region": "${{location_address_region}}"
+    },
+    "addressHidden": false,
+    "c_backgroundColor": "WHITE",
+    "c_coverPhoto": {
+      "height": 616,
+      "thumbnails": [
+        {
+          "height": 616,
+          "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
+          "width": 1200
+        },
+        {
+          "height": 318,
+          "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/619x318.jpg",
+          "width": 619
+        },
+        {
+          "height": 308,
+          "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/600x308.jpg",
+          "width": 600
+        },
+        {
+          "height": 101,
+          "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/196x101.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
+      "width": 1200
+    },
+    "c_coverPhotoDescription": "Our mission at ${{location_name}} is to provide superior air conditioning and heating services to our customers with a commitment to quality, innovation, and sustainability. As local HVAC Company ${{location_address_city}} ${{location_address_region}}, we strive to create comfortable and energy-efficient indoor environments for homes and businesses across the region. We are dedicated to staying ahead of the curve in our industry, utilizing cutting-edge technology and methods to exceed our client’s expectations.",
+    "c_coverPhotoHeading": "${{location_name}}",
+    "c_footerLogo": {
+      "image": {
+        "height": 573,
+        "thumbnails": [
+          {
+            "height": 573,
+            "url": "https://a.mktgcdn.com/p/3E1SRpKTSqnln-dhyO-2qmm6kaIN1cf_-h1jBolnAV8/672x573.png",
+            "width": 672
+          },
+          {
+            "height": 528,
+            "url": "https://a.mktgcdn.com/p/3E1SRpKTSqnln-dhyO-2qmm6kaIN1cf_-h1jBolnAV8/619x528.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/3E1SRpKTSqnln-dhyO-2qmm6kaIN1cf_-h1jBolnAV8/528x450.png",
+            "width": 528
+          },
+          {
+            "height": 167,
+            "url": "https://a.mktgcdn.com/p/3E1SRpKTSqnln-dhyO-2qmm6kaIN1cf_-h1jBolnAV8/196x167.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/3E1SRpKTSqnln-dhyO-2qmm6kaIN1cf_-h1jBolnAV8/672x573.png",
+        "width": 672
+      }
+    },
+    "c_frontPageServiceList": [
+      "4599537718587752450"
+    ],
+    "c_googleReview": {
+      "image": {
+        "height": 399,
+        "thumbnails": [
+          {
+            "height": 399,
+            "url": "https://a.mktgcdn.com/p/B6LNHBF2tu8E7q-1wipqMolRkCAabYcHg6WWF7uR7ZU/800x399.jpg",
+            "width": 800
+          },
+          {
+            "height": 309,
+            "url": "https://a.mktgcdn.com/p/B6LNHBF2tu8E7q-1wipqMolRkCAabYcHg6WWF7uR7ZU/619x309.jpg",
+            "width": 619
+          },
+          {
+            "height": 299,
+            "url": "https://a.mktgcdn.com/p/B6LNHBF2tu8E7q-1wipqMolRkCAabYcHg6WWF7uR7ZU/600x299.jpg",
+            "width": 600
+          },
+          {
+            "height": 98,
+            "url": "https://a.mktgcdn.com/p/B6LNHBF2tu8E7q-1wipqMolRkCAabYcHg6WWF7uR7ZU/196x98.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/B6LNHBF2tu8E7q-1wipqMolRkCAabYcHg6WWF7uR7ZU/800x399.jpg",
+        "width": 800
+      }
+    },
+    "c_heroSection": {
+      "markdown": "# Residential \u0026 Commercial HVAC Services\nWelcome to ${{location_name}} where we are committed to providing our customers with high-quality HVAC installation, repair and replacement services in ${{location_address_city}} ${{location_address_region}}. We pride ourselves on our commitment to exceptional customer service, expert knowledge, and cutting-edge technology. Our team of skilled professionals ensures that your home or business stays comfortable and relaxed all year round. \n\nWe believe that our success is built on the trust and satisfaction of our customers. That’s why we are committed to providing reliable, affordable, and timely service whenever you call us. Thank you for choosing ${{location_name}} company for all your HVAC solutions.\n\n[MORE ABOUT US](#)"
+    },
+    "c_navigation": [
+      {
+        "label": "Home",
+        "uRL": "/"
+      },
+      {
+        "label": "Services",
+        "subItem": [
+          "4599537718587752450"
+        ],
+        "uRL": "#"
+      },
+      {
+        "label": "About Us",
+        "uRL": "about-us"
+      },
+      {
+        "label": "Blog",
+        "uRL": "blog"
+      },
+      {
+        "label": "Contact Us",
+        "uRL": "contact-us"
+      }
+    ],
+    "c_ourMission": {
+      "markdown": "Our mission at ${{location_name}} is to provide superior air conditioning and heating [services ](xyz.com) to our customers with a commitment to quality, innovation, and sustainability. As a team, we strive to create comfortable and energy-efficient indoor environments for homes and businesses across the region. We are dedicated to staying ahead of the curve in our industry, utilizing cutting-edge technology and methods to exceed our client’s expectations. Our highly-trained local HVAC contractors ${{location_address_city}} ${{location_address_region}} work tirelessly to ensure that every job is completed with the utmost attention to detail and integrity. At our HVAC system ${{location_address_city}} ${{location_address_region}}, we are proud to be a trusted partner in our community, delivering exceptional service with a focus on customer satisfaction."
+    },
+    "c_theme": "DEFAULT",
+    "c_truckImage": {
+      "height": 350,
+      "thumbnails": [
+        {
+          "height": 350,
+          "url": "https://a.mktgcdn.com/p/SyYRk-Apv6_ZZFU7QHCxcR2Jn67Htq0Ptnv6nFRHG90/666x350.jpg",
+          "width": 666
+        },
+        {
+          "height": 325,
+          "url": "https://a.mktgcdn.com/p/SyYRk-Apv6_ZZFU7QHCxcR2Jn67Htq0Ptnv6nFRHG90/619x325.jpg",
+          "width": 619
+        },
+        {
+          "height": 315,
+          "url": "https://a.mktgcdn.com/p/SyYRk-Apv6_ZZFU7QHCxcR2Jn67Htq0Ptnv6nFRHG90/600x315.jpg",
+          "width": 600
+        },
+        {
+          "height": 103,
+          "url": "https://a.mktgcdn.com/p/SyYRk-Apv6_ZZFU7QHCxcR2Jn67Htq0Ptnv6nFRHG90/196x103.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/SyYRk-Apv6_ZZFU7QHCxcR2Jn67Htq0Ptnv6nFRHG90/666x350.jpg",
+      "width": 666
+    },
+    "c_whatToExpect": {
+      "markdown": "At top HVAC company ${{location_address_city}} ${{location_address_region}}, we strive to provide our customers with top-quality residential and commercial HVAC services. Including hvac installation, hvac repair, and, hvac replacement services ${{location_address_city}} ${{location_address_region}}, our team of experienced technicians is dedicated to ensuring that your best HVAC system for home is running efficiently and effectively. We use only the latest technology and industry-leading techniques to diagnose and repair any issues with your air conditioning system. Our commitment to customer satisfaction means that we will work with you every step of the way to ensure that your needs are met. With our HVAC installation company, you can expect prompt and reliable air conditioning service that will keep you cool and comfortable, no matter the weather outside."
+    },
+    "c_whyChooseUs": {
+      "markdown": "At ${{location_name}}, we pride ourselves on delivering exceptional quality and service to our clients. Our highly skilled HVAC contractors ${{location_address_city}} ${{location_address_region}} are committed to ensuring that your heating and cooling needs are met with the utmost care and attention to detail. We believe that our clients deserve nothing less than the best, and that’s why we use only the highest quality products and cutting-edge technology to keep your home or business comfortable all year round. With our extensive experience and industry-leading expertise, you can trust us to provide the reliable and efficient service you need. Choose Our air and heat company for all your hvac installation services in ${{location_address_city}} ${{location_address_region}} and experience the difference we can make for you."
+    },
+    "c_whySectionImage": {
+      "height": 1024,
+      "thumbnails": [
+        {
+          "height": 1024,
+          "url": "https://a.mktgcdn.com/p/BYXChnOXBS3qTUKZ5kf7Rr5KG7MRld1H5SpLVw47a18/768x1024.jpg",
+          "width": 768
+        },
+        {
+          "height": 825,
+          "url": "https://a.mktgcdn.com/p/BYXChnOXBS3qTUKZ5kf7Rr5KG7MRld1H5SpLVw47a18/619x825.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p/BYXChnOXBS3qTUKZ5kf7Rr5KG7MRld1H5SpLVw47a18/338x450.jpg",
+          "width": 338
+        },
+        {
+          "height": 261,
+          "url": "https://a.mktgcdn.com/p/BYXChnOXBS3qTUKZ5kf7Rr5KG7MRld1H5SpLVw47a18/196x261.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/BYXChnOXBS3qTUKZ5kf7Rr5KG7MRld1H5SpLVw47a18/768x1024.jpg",
+      "width": 768
+    },
+    "description": "Providing cooling and heating services to both residential and commercial clients.",
+    "emails": [
+      "services@test.com"
+    ],
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      }
+    },
+    "instagramHandle": "instagram",
+    "logo": {
+      "description": "${{location_name}}",
+      "image": {
+        "alternateText": "logo",
+        "height": 848,
+        "thumbnails": [
+          {
+            "height": 848,
+            "url": "https://a.mktgcdn.com/p/EzWCNN2SxugZxYN1PjKVwTvTGryJNcmKJJSN0W5NJf4/848x848.jpg",
+            "width": 848
+          },
+          {
+            "height": 150,
+            "url": "https://a.mktgcdn.com/p/EzWCNN2SxugZxYN1PjKVwTvTGryJNcmKJJSN0W5NJf4/150x150.jpg",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "https://a.mktgcdn.com/p/EzWCNN2SxugZxYN1PjKVwTvTGryJNcmKJJSN0W5NJf4/94x94.jpg",
+            "width": 94
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/EzWCNN2SxugZxYN1PjKVwTvTGryJNcmKJJSN0W5NJf4/848x848.jpg",
+        "width": 848
+      }
+    },
+    "mainPhone": "+14692269642",
+    "name": "${{location_name}}",
+    "paymentOptions": [
+      "AMERICANEXPRESS",
+      "DISCOVER",
+      "MASTERCARD",
+      "VISA"
+    ],
+    "photoGallery": [
+      {
+        "description": "Lorem ipsum photo.",
+        "details": "Lorem ipsum photo.",
+        "image": {
+          "height": 616,
+          "thumbnails": [
+            {
+              "height": 616,
+              "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
+              "width": 1200
+            },
+            {
+              "height": 318,
+              "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/619x318.jpg",
+              "width": 619
+            },
+            {
+              "height": 308,
+              "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/600x308.jpg",
+              "width": 600
+            },
+            {
+              "height": 101,
+              "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/196x101.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "description": "Lorem ipsum photo.",
+        "details": "Lorem ipsum photo.",
+        "image": {
+          "alternateText": "Lorem ipsum photo.",
+          "height": 878,
+          "thumbnails": [
+            {
+              "height": 878,
+              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/1560x878.jpg",
+              "width": 1560
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/1560x878.jpg",
+          "width": 1560
+        }
+      },
+      {
+        "description": "Lorem ipsum photo.",
+        "details": "Lorem ipsum photo.",
+        "image": {
+          "alternateText": "Lorem ipsum photo.",
+          "height": 900,
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/1600x900.jpg",
+              "width": 1600
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/1600x900.jpg",
+          "width": 1600
+        }
+      },
+      {
+        "description": "Lorem ipsum photo.",
+        "details": "Lorem ipsum photo.",
+        "image": {
+          "alternateText": "Lorem ipsum photo.",
+          "height": 901,
+          "thumbnails": [
+            {
+              "height": 901,
+              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/1600x901.jpg",
+              "width": 1600
+            },
+            {
+              "height": 349,
+              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/619x349.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/1600x901.jpg",
+          "width": 1600
+        }
+      },
+      {
+        "description": "Lorem ipsum photo.",
+        "details": "Lorem ipsum photo.",
+        "image": {
+          "alternateText": "Lorem ipsum photo.",
+          "height": 900,
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/1600x900.jpg",
+              "width": 1600
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/1600x900.jpg",
+          "width": 1600
+        }
+      }
+    ],
+    "slug": "index.html",
+    "timezone": "America/Chicago",
+    "twitterHandle": "twitter"
+  },
+  "entityType": "location",
+  "labels": []
+}

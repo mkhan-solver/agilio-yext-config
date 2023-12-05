@@ -1,0 +1,16 @@
+{
+  "$id": "5113587355627221572",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_blogList": [
+      "5679390660682403894",
+      "2727426654515313288"
+    ],
+    "name": "Blog Listing",
+    "slug": "blog"
+  },
+  "entityType": "ce_pages",
+  "folder": "yext/root",
+  "labels": []
+}

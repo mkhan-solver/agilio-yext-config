@@ -1,0 +1,47 @@
+{
+  "$id": "4599537718587752450",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "bodyV2": {
+      "markdown": "# Air Conditioning Repair Services ${{location_address_city}} ${{location_address_region}}\n\nOur expert technicians are highly trained and experienced in all AC repair services in ${{location_address_city}} ${{location_address_region}}, including central air conditioning units, ductless mini-split systems, and evaporative coolers. Whether your system is experiencing a minor issue or a major malfunction, we have the knowledge and expertise in heating and air conditioning repair services ${{location_address_city}} ${{location_address_region}} to get your system up and running quickly.\n\nWe take great pride in our work and strive to provide our customers with the highest level of air conditioning repair in ${{location_address_city}} ${{location_address_region}}. When you choose us for your local AC repair services, you can rest assured that you will receive prompt services from start to finish.\n\nOur team begins each residential \u0026 commercial AC repair need with a thorough inspection of your system to identify the root cause of the problem. We then provide a detailed diagnosis and recommend the best air conditioning repair services TX to fix it. Our technicians carry a wide range of replacement parts and equipment on their service vehicles, which allows us to quickly and efficiently make any necessary AC replacement service possible.\n\n# Best AC Repair Company ${{location_address_city}} ${{location_address_region}}\n\nIf we determine that your commercial air conditioning system is beyond repair, we offer air conditioning replacement ${{location_address_city}} services. We understand that purchasing a new air conditioning system can be a significant investment, so we work with you to find the best system to fit your budget and needs. Our home AC repair company ${{location_address_city}} ${{location_address_region}}, will provide all the information you need to make an informed decision about your repair options, including system types, energy efficiency ratings, and warranties.\n\nRegular maintenance is the key to keeping your AC system running smoothly and efficiently. That’s why ${{location_name}} also offers commercial and residential AC maintenance services to help prevent costly repairs and prolong the lifespan of your system. Our air conditioning maintenance in ${{location_address_city}} includes air conditioning cleaning service and inspection of all components, lubrication of moving parts, and replacement of filters as needed.\n\nWe pride ourselves on providing our customers with exceptional AC unit repair and replacement services in ${{location_address_city}} ${{location_address_region}}. That’s why we offer affordable air conditioning pricing and flexible financing options to help you get the services you need without breaking the bank. We also stand behind our work with a satisfaction guarantee, so you can feel confident that your system is in good hands when you choose us for your local AC repair needs.\n\n# ${{location_name}} Best AC Repair Services Texas\n\nIn addition to our air conditioning repair services in ${{location_address_city}} ${{location_address_region}}, we also offer a range of heat pump repair, ventilation, and air conditioning (HVAC) services to keep your home or business comfortable year-round. We offer regular AC repair services to help prevent unexpected breakdowns and ensure your system runs at peak performance.\n\nIf you require Acton air conditioning repair services, don’t hesitate to contact us at ${{location_name}}, Our team is ready to help you stay cool and comfortable no matter how hot it gets outside.\n\n\nCall Now To Get A Free Quote: "
+    },
+    "description": "At ${{location_name}}, we provide top-notch air conditioning repair and replacement services to keep your home or business comfortable year-round. Our expert technicians use cutting-edge tools and techniques to diagnose and fix any issues with your AC system. Trust us for reliable and local air conditioning service.",
+    "name": "AC Repair Services ${{location_address_city}} ${{location_address_region}}",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1210,
+          "thumbnails": [
+            {
+              "height": 1210,
+              "url": "https://a.mktgcdn.com/p/TomBsG8gwCMJ8F3zou5je21KdZ-FrYn6KwTWQs2kJ1o/1537x1210.jpg",
+              "width": 1537
+            },
+            {
+              "height": 487,
+              "url": "https://a.mktgcdn.com/p/TomBsG8gwCMJ8F3zou5je21KdZ-FrYn6KwTWQs2kJ1o/619x487.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/TomBsG8gwCMJ8F3zou5je21KdZ-FrYn6KwTWQs2kJ1o/572x450.jpg",
+              "width": 572
+            },
+            {
+              "height": 154,
+              "url": "https://a.mktgcdn.com/p/TomBsG8gwCMJ8F3zou5je21KdZ-FrYn6KwTWQs2kJ1o/196x154.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/TomBsG8gwCMJ8F3zou5je21KdZ-FrYn6KwTWQs2kJ1o/1537x1210.jpg",
+          "width": 1537
+        }
+      }
+    ],
+    "slug": "air-conditioning-repair-ca"
+  },
+  "entityType": "ce_services",
+  "folder": "yext/root",
+  "labels": []
+}

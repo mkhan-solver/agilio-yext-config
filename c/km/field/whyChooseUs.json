@@ -1,0 +1,11 @@
+{
+  "$id": "c_whyChooseUs",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Why Choose Us",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "markdownType": {}
+  },
+  "typeId": "markdown"
+}

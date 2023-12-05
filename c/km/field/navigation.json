@@ -1,0 +1,14 @@
+{
+  "$id": "c_navigation",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Navigation",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_navigationField",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}
